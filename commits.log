@@ -1,0 +1,98 @@
+commit 23d5270766a9a8ffc24fceedb1e51cd74f7e5d51
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 09:13:37 2025 -0500
+
+    agregando dos parrafos
+
+commit 9e25014a95ae62f80bd930e177c661496c041754
+Merge: 665c94f 41654b0
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 09:01:15 2025 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 665c94f763e029457075d8a60cb8a8b366768c6d
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 08:41:46 2025 -0500
+
+    agregando estaciones del año con fecha de inicio
+
+commit 41654b0978aa9fd1d30fed7d29c7c2d79b480cbd
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 08:41:46 2025 -0500
+
+    agregando estaciones del año
+
+commit 736c34a4f634d1f3d1e757a0b126f5b2c840e4d3
+Merge: d071dd1 5e8c8fa
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 08:18:10 2025 -0500
+
+    resolviendo conlicto merge main-html en el doc ramas.html
+
+commit 5e8c8fa1693f61181adddfa1ad875ef73da431e5
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 08:10:43 2025 -0500
+
+    agregando index.js al ramas.html
+
+commit d071dd132b98b24b13956fae2403c8f0934e739c
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 08:07:34 2025 -0500
+
+    agregando style.css al ramas.html
+
+commit c8e45d96f9973f85dd511bf168e82549ac9ce2c2
+Merge: 99f0a58 e4f38cc
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Wed Mar 19 07:48:55 2025 -0500
+
+    Merge branch 'js'
+
+commit e4f38cc3a6977e6aa24e65038befaed610365eec
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 17:46:55 2025 -0500
+
+    creando index.js
+
+commit 99f0a58a22254b3946157cb640a0bc010817e8a5
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 17:41:15 2025 -0500
+
+    creando style.css
+
+commit cca184daefd8607e35def5e6546334d7ece88a7b
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 17:35:47 2025 -0500
+
+    Creando archivo ramas.html
+
+commit 32d31bf615971f073bec815f50b88dbcfd058cc7
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 16:35:24 2025 -0500
+
+    ignorando con el gitignore
+
+commit 9d5bd6513f62ac47ca4a568f7c34e493bd6ff2a1
+Author: ricardo plata <113556377+riccarM@users.noreply.github.com>
+Date:   Tue Mar 18 15:58:07 2025 -0500
+
+    creando licencia desde el repositorio
+
+commit 35ac5810aa9bd53aee53312c27eb9128786b8d18
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 15:45:38 2025 -0500
+
+    Agregando estilos y texto en el readme
+
+commit fa0113fb5e97adf9ba20b98bcde806c818fb9cdc
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 12:36:16 2025 -0500
+
+    2Agr
+
+commit 7ceae0970719e296bf855bcf9eb98e6e9787e9c6
+Author: Jose Mendoza <ricardomendozapj@gmail.com>
+Date:   Tue Mar 18 12:28:40 2025 -0500
+
+    Primer commit 😒

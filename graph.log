@@ -1,0 +1,23 @@
+* 23d5270 agregando dos parrafos
+*   9e25014 Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * 41654b0 agregando estaciones del año
+* | 665c94f agregando estaciones del año con fecha de inicio
+|/  
+*   736c34a resolviendo conlicto merge main-html en el doc ramas.html
+|\  
+| * 5e8c8fa agregando index.js al ramas.html
+* | d071dd1 agregando style.css al ramas.html
+* |   c8e45d9 Merge branch 'js'
+|\ \  
+| * | e4f38cc creando index.js
+* | | 99f0a58 creando style.css
+| |/  
+|/|   
+* | cca184d Creando archivo ramas.html
+|/  
+* 32d31bf ignorando con el gitignore
+* 9d5bd65 creando licencia desde el repositorio
+* 35ac581 Agregando estilos y texto en el readme
+* fa0113f 2Agr
+* 7ceae09 Primer commit 😒
